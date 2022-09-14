@@ -7,6 +7,6 @@ Blabla
 * No
 * No se
 
-## Apartado B
+## TUX
 
-Bla bla
+![Tux, the Linux mascot](/Tux.png)

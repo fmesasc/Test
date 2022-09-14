@@ -1,11 +1,14 @@
 # Test
 
 ## Apartado A
+Código:
 
-Blabla
-* Sí
-* No
-* No se
+    <html>
+      <head>
+      </head>
+    </html>
+    
+Ese es un código ```HTML```! no ```PHP```...
 
 ## TUX
 
